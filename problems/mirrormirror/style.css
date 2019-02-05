@@ -1,11 +1,13 @@
 #blue{
     display:flex;
     width: 50vw;
+    height:3vh;
     border: 1px solid blue;
 }
 #orange{
     display:flex;
     width: 50vw;
+    height:3vh;
     flex-direction: row;
     border: 1px solid orange;
 }
