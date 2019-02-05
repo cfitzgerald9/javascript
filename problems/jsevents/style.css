@@ -1,0 +1,16 @@
+#blue{
+    display:flex;
+    width: 50vw;
+    border: 1px solid blue;
+}
+#orange{
+    display:flex;
+    width: 50vw;
+    flex-direction: row;
+    border: 1px solid orange;
+}
+#flexContainer{
+    display:flex;
+   flex-direction: row;
+
+}
